@@ -1,0 +1,3 @@
+/home/akshay/gpu_programming/my_first_vsg_project/build/CMakeFiles/HelloWorld.dir
+/home/akshay/gpu_programming/my_first_vsg_project/build/CMakeFiles/edit_cache.dir
+/home/akshay/gpu_programming/my_first_vsg_project/build/CMakeFiles/rebuild_cache.dir
